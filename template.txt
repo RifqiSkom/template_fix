@@ -3,3 +3,4 @@ membuat webportabel dengan ci4
 mem te
 membuaat kopi
 menambahkan vervikasi emalmain
+menambahkan database
