@@ -4,3 +4,5 @@ mem te
 membuaat kopi
 menambahkan vervikasi emalmain
 menambahkan database
+menambahkan struktur data dasar
+menambahkan ralavel
